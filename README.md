@@ -1,1 +1,1 @@
-# disabletoken
+# Server -> https://discord.gg/fyren
